@@ -1,0 +1,8 @@
+# 本地/临时
+.DS_Store
+*.log
+.env
+.env.local
+
+# 若将 teachers.json 视为敏感或大文件，可取消下一行注释
+# teachers.json
